@@ -1,7 +1,6 @@
 # Meus Resumos: Versionamento de Código com Git e GitHub
 
 ![Badge de Status](https://img.shields.io/badge/status-em%20progresso-yellow)
-![Badge de Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-blue)
 
 ## ✨ Sobre o Projeto
 
